@@ -92,3 +92,4 @@ npm run dev
 ```
 
 Esto iniciará la aplicación en modo de desarrollo. Abre tu navegador web y ve a `http://localhost:3000` para ver la aplicación en acción.
+
